@@ -7,4 +7,4 @@
 - Metodos: Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier (RFC), Convolutional Neuronal Network (CNN), Deep Neuronal Network (DNN)
 - Video: https://www.youtube.com/watch?v=jhM1ecQZARI
 - Presentacion: https://github.com/DanielLizcano/IA/blob/main/Presentacion/PresentacionProyectoIA.pdf
-- Repositorio: 
+- Repositorio: https://github.com/DanielLizcano/Inteligencia-Artificial/tree/main/Implementacion
